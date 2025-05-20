@@ -1,0 +1,20 @@
+{
+    "id": "zen-minimal-exit-menu",
+    "name": "Zen Minimal Exit Menu",
+    "description": "A zen browser mod that changes the exit menu to 3 circles similar (but a bit different) to one in MacOS.",
+    "homepage": "https://github.com/Anoms12/Advanced-Tab-Groups",
+    "preferences": "https://raw.githubusercontent.com/Anoms12/zen-minimal-exit-menu/main/preferences.json",
+    "style": "https://raw.githubusercontent.com/Anoms12/zen-minimal-exit-menu/main/chrome.css",
+    "readme": "https://raw.githubusercontent.com/Anoms12/zen-minimal-exit-menu/main/README.md",
+    "image": "https://raw.githubusercontent.com/Anoms12/zen-minimal-exit-menu/main/image.png",
+    "author": "Anoms12",
+    "version": "9",
+    "tags": [
+        "sine",
+        "Exit",
+        "Window Control",
+        "Minimal"
+    ],
+    "createdAt": "2025-05-20",
+    "updatedAt": "2025-05-20"
+}
